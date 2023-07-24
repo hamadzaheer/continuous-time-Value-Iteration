@@ -1,5 +1,5 @@
-# continuous-time-Value-Iteration
-Implementation of model-free Value Iteration algorithm to design optimal state feedback controller for continuous-time LTI systems [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=hamadzaheer/continuous-time-Value-Iteration)
+# continuous-time-Value-Iteration [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=hamadzaheer/continuous-time-Value-Iteration)
+Implementation of model-free Value Iteration algorithm to design optimal state feedback controller for continuous-time LTI systems
 
 Reference:
 
